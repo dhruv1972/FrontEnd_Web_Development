@@ -30,7 +30,15 @@ To add an image
 
 ## Code
 You can add `code` inline using a single tic.
-
+You can add multiple lines of code using three ticks.
 ```javascript
 var test ="String"
 ```
+
+## Tables
+
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Row 1    | Row 1    |
+| Row 2    | Row 2    |
+
