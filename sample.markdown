@@ -26,4 +26,4 @@ https://codeadam.ca
 ## Images
 To add an image
 ![Pictures](30.jpg)
-<img src="30.jpg"/>
+<img src="30.jpg" width="100"/>
