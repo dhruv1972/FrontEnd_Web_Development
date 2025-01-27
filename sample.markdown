@@ -25,5 +25,12 @@ https://codeadam.ca
 
 ## Images
 To add an image
-![Pictures]
+![Pictures](30.jpg)
 <img src="30.jpg" width="100"/>
+
+## Code
+You can add `code` inline using a single tic.
+
+```javascript
+var test ="String"
+```
