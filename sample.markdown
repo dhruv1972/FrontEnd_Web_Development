@@ -25,5 +25,5 @@ https://codeadam.ca
 
 ## Images
 To add an image
-![logo](pictures/30.jpg)
-<img src="pictures/30.jpg"/>
+![Pictures](30.jpg)
+<img src="30.jpg"/>
